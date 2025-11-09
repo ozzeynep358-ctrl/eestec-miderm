@@ -1,0 +1,19 @@
+#quiz-container {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 2px solid #333;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+.result {
+  background-color: #ff4d4d;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 20px;
+}
+
